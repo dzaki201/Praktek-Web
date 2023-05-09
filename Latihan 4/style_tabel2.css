@@ -1,0 +1,8 @@
+<style>
+.zebra tr:nth-child(even) {
+background-color: #E6E6FA;
+}
+.zebra tr:nth-child(odd) {
+background-color: #FFF0F5;
+}
+</style>
