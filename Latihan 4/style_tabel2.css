@@ -1,8 +1,11 @@
-<style>
 .zebra tr:nth-child(even) {
-background-color: #E6E6FA;
-}
-.zebra tr:nth-child(odd) {
-background-color: #FFF0F5;
-}
-</style>
+    background-color: #e6e6fa;
+  }
+  
+  .zebra tr:nth-child(odd) {
+    background-color: #fff0f5;
+  }
+  
+  .zebra tr:hover {
+    background-color: yellow;
+  }
