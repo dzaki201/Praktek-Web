@@ -1,0 +1,22 @@
+div 
+    {
+        width: 100px;
+        height: 100px;
+        margin: auto;
+    }
+.pembungkus
+    {
+        width: 300px;
+        height: 400px;
+        border: 15px solid lightgreen;
+        position: relative;
+    }
+
+.satu { background-color: #BADA55;}
+.dua { 
+    background-color: #9b59b6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    }
+.tiga { background-color: #f1c40f;}
