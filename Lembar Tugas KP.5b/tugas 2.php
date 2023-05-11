@@ -5,7 +5,7 @@ $nim = "123454321";
 $nama = "ilham";
 $alamat = "Cilacap";
 $pekerjaan = "Mahasiswa";
-// /* Isian Kualifikasi */
+//  Isian Kualifikasi 
 $ni="NIM";
 $nm="Nama";
 $almt="Alamat";
